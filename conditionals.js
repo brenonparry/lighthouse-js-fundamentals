@@ -1,4 +1,4 @@
-// const raining = true;
+// const raining = false;
 // const cold = false;
 
 // if (raining) {
@@ -10,6 +10,9 @@
 // }
 
 // console.log("Now you're ready to go outside!");
+
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
 
 
 // const temperature = -35;
@@ -24,12 +27,21 @@
 
 // console.log("Now you're ready to go outside!");
 
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
+
+
 // const isCitizen = true;
 // const age = 26;
 
 // if (isCitizen && age > 18) {
 //   console.log("You are eligible to vote.");
 // }
+
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
+
+
 
 // let temperature = 35
 
@@ -40,6 +52,10 @@
 //   console.log("Get your buns outside!");
 // }
 
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>//
+
+
 let raining = true
 
 if (!raining) {
@@ -48,3 +64,4 @@ if (!raining) {
 else {
   console.log("Buckle up, its about to get wet!");
 }
+
